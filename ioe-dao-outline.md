@@ -1,6 +1,5 @@
-**Internet of Education DAO—Outline**
-
-Milestone 4
+# **Internet of Education DAO—Outline**
+### Milestone 4
 
 **![](https://lh5.googleusercontent.com/mjhXu8fEi3huopBJ0e6FmlDjjAfCCS2ZHOyEoD-U-gUGrZv1vpxtKVblW4iRxmRBbnyx9wG_5bs_AvXinN2n4u35JIoX2ZrDIPrMRWPGbLBvwQ8SzvhAQOf_OUZiQfiTKgP_Dww4)**
 
